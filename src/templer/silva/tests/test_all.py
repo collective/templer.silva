@@ -1,6 +1,6 @@
 import unittest
 
-from templer.plone.tests.test_templates import test_suite as doc_test_suite
+from templer.silva.tests.test_templates import test_suite as doc_test_suite
 
 
 def test_suite():
