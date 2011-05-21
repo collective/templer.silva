@@ -17,4 +17,5 @@ Let's check the content::
     buildout.cfg
     products
     src
+    templates
     var
