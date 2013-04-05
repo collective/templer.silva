@@ -2,10 +2,10 @@
 plone template
 ==============
 
-Use paster::
+Use templer::
 
-    >>> paster('create -t silva_buildout buildout --no-interactive')
-    paster create -t silva_buildout buildout --no-interactive
+    >>> templer('silva_buildout buildout --no-interactive')
+    templer silva_buildout buildout --no-interactive
     ...
 
 Let's check the content::
